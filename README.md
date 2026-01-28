@@ -28,7 +28,6 @@ cd scenario-task
 ### 2 Backend Setup
 ```bash
 cd backend
-npm install
 ```
 
 Run backend server:
@@ -43,7 +42,6 @@ node seed.js
 
 Backend runs at:
 ```
-http://localhost:8080
 ```
 
 ---
@@ -53,7 +51,6 @@ Open a new terminal:
 
 ```bash
 cd frontend
-npm install
 npm run dev
 ```
 
